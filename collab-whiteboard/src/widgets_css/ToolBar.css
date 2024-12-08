@@ -36,6 +36,7 @@ input[type="range"] {
   cursor: pointer;
   font-size: 14px;
   transition: background-color 0.3s;
+  text-wrap: nowrap;
 }
 
 .tool-button:hover {

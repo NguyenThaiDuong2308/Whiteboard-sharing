@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { WebSocketContext } from '../WebSocketContext'; // Import the WebSocket context
 import CreateRoomForm from "./CreateForm";
-import './Form.css';
+import '../widgets_css/Form.css';
 import JoinRoomForm from "./JoinForm";
 
 const Form = ({ setUser }) => {

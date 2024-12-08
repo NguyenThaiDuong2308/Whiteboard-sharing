@@ -24,6 +24,7 @@ export const WebSocketProvider = ({ children }) => {
       //TODO: need test
       // const parsedMessage = JSON.parse(event.data);
       console.log(event);
+     if(event.tag==="updateUserList") console.log('hahahahahaha')
       setMessage(event.data); // Update message state on each new message
       console.log(event.tag)
     };

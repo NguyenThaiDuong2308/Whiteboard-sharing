@@ -1,13 +1,10 @@
-# Document
-- [x] Whatever feature to add here
-# Server side
-- [ ] Port this to web
-- [ ] Implements authorization
-- [ ] Whatever feature to add here
-- [ ] Whatever feature to add here
-# Client side
-- [ ] Implements app interface
-- [x] Whatever feature to add here
+[ ] shape broadcast (other than poly)
+[ ] broadcast to selected room only
+[ ] undo/redo (FE BE)
+[ ] user management ( FE BE )
+[ ] shape preview
+[ ] shape selection + shape owner display + shape shifting ( move, scale, change color, outline)
+
 
 ### Other
 > [!NOTE]

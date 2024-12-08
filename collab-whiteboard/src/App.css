@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  display: flex;
+  justify-content: center; /* Căn giữa hai form theo chiều ngang */
+  align-items: center;    /* Căn giữa hai form theo chiều dọc */
+  height: 100vh;          /* Chiều cao 100% viewport */
+  gap: 40px;              /* Khoảng cách giữa hai form */
+  padding-top: 5rem;      /* Khoảng cách trên cùng cho toàn bộ container */
+}
